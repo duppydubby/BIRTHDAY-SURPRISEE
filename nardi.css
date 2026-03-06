@@ -1,0 +1,25 @@
+body {
+  text-align: center;
+  font-family: sans-serif;
+  background-color: #fce4ec;
+}
+
+.gallery {
+  margin: 20px auto;
+  width: 80%;
+}
+
+.slide {
+  display: block;
+  margin: 10px auto;
+  max-width: 80%;
+  border: 5px solid #fff;
+  box-shadow: 0 0 10px #888;
+}
+
+.secret {
+  cursor: pointer;
+  color: #e91e63;
+  font-weight: bold;
+  margin-top: 20px;
+}
